@@ -52,6 +52,7 @@ position: absolute;
     position: absolute;
     top: 23%;
     left: 7.5%;
+    width: 1.4%;
 }
 .cricle{
     width: 5.5%;
@@ -78,6 +79,7 @@ position: absolute;
     position: absolute;
     top: 32%;
     left: 51%;
+    width: 1.4%;
 }
 
 .pro{
@@ -109,12 +111,21 @@ position: absolute;
 
 .line2{
     position: absolute;
-    border-left: 2px solid #929292;
+    border-left: 2px solid #e7e5e5;
    
     height: 35vh;
     width: 25%;
     left: 54.5%;
     top: 50%;
+    opacity: 0.1;
+}
+.line4{
+    border-left: 2px solid #929292;
+   position: absolute;   
+   top: 8%;
+   left:45%;
+   height: 36vh;
+    width: 25%;
     opacity: 0.2;
 }
 
